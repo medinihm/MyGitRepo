@@ -1,0 +1,35 @@
+/* Body styling */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #eef6fc;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* Centered content container */
+.container {
+    background-color: white;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.08);
+    width: 100%;
+    max-width: 600px;
+    text-align: left;
+}
+
+/* Heading styling */
+h1 {
+    font-size: 2.2rem;
+    color: #007acc;
+    margin-bottom: 20px;
+}
+
+/* Paragraph styling */
+p {
+    font-size: 1.1rem;
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
